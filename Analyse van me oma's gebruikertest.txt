@@ -1,0 +1,11 @@
+Analyse van me oma's gebruikertest
+
+Oma: 70 jaar
+Tijdens deze gebruikerstest heb ik mijn oma laten navigeren door mijn portfolio. Ze is iemand zonder technische kennis, dus ideaal voor deze test. Wat me opviel, is dat hoewel de structuur functioneel is, het niet altijd intuïtief overkomt voor iemand buiten de ICT-wereld.
+
+Bijvoorbeeld, de termen als “Introductie” en “Home” zijn voor haar te verwarrend. Ze verwacht een startpagina die ook echt “Home” heet. Ze miste ook visuele elementen zoals een foto van mijzelf, iets waarmee bezoekers zich direct kunnen verbinden.
+
+Bij het klikken op “Contact” had ze verwacht een telefoonnummer of e-mailadres te vinden, of zelfs een simpele knop om direct contact op te nemen. Dit geeft aan dat de website wel functioneel is, maar qua gebruiksvriendelijkheid en herkenbaarheid nog beter kan.
+
+Ook de projectpagina gaf haar weinig context: ze snapte dat het over programmeren ging, maar zonder uitleg of beschrijving voelde het afstandelijk. Hieruit blijkt dat korte toelichtingen in eenvoudige taal essentieel zijn voor een breder publiek.
+
