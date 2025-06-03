@@ -1,0 +1,3 @@
+testen en analyseren 
+
+of mijn website op meerdere devices gerund kan worden weet ik eerlijk gezegd niet. Ik had geen tijd om het de testen maar in mijn code staat wel flex maar ik heb niks specifieks toegevoegd dus de site is waarschijnlijk deels responsive.
