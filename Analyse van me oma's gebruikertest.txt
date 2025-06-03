@@ -1,3 +1,50 @@
+
+Startpagina (Introductie)
+
+Oma las aandachtig de tekst: “Ooh wat leuk, hij is 16 jaar en al met software bezig!”
+
+Ze begreep wie je bent, maar ze zei: “Ik weet niet zeker waar ik nu ben… is dit de hoofdpagina?”
+
+Ze klikte op “Contact” om me te bellen – verwachtte direct een telefoonnummer.
+
+Navigatie
+
+De navigatie werkte goed op tabletformaat.
+
+Ze zei wel: “Ik had verwacht dat 'Home' helemaal links zou staan.”
+
+Ze raakte een beetje in de war tussen “Introductie” en “Home”.
+
+Projectenpagina
+
+Ze vond het leuk om te zien dat je met code bezig bent, maar: “Ik begrijp niet wat dit allemaal betekent.”
+
+Een korte uitleg per project zou haar helpen.
+
+Contactpagina
+
+Ze miste duidelijke contactopties: “Er staat geen telefoonnummer of iets… Kan ik hem ook mailen?”
+
+
+
+
+Vragen en antwoorden
+Was het duidelijk waar je informatie kon vinden?
+“De kopjes helpen wel, maar ik weet niet goed wat er allemaal in staat. Als er een foto van Pharrel was, had ik het sneller door.”
+
+Wat vond je het meest interessant?
+“Dat Pharrel al met websites bouwen bezig is! Zo knap.”
+
+Wat zou je graag anders zien op de website?
+“Misschien een foto van Pharrel, en een knopje met ‘Bel me’ of ‘Stuur een mailtje’.”
+
+Was de navigatie makkelijk te gebruiken?
+“Het werkte goed, maar ik vond het een beetje verwarrend met ‘Introductie’ en ‘Home’. Misschien gewoon ‘Start’?”
+
+
+
+
+
 Analyse van me oma's gebruikertest
 
 Oma: 70 jaar
